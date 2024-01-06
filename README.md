@@ -1,19 +1,13 @@
-# Menca personal blogging theme for Jekyll
+# Binsux personal blogging theme for Jekyll
 
-Menca is a super fast and clean blogging theme for Jekyll. One of the main features of this theme is video post support. You can easily add your favorite video from services like Youtube or Vimeo. This theme is fully compatible with Github Pages and has a light and dark mode for easy reading. If you want to start a creative personal blog and you create video content this theme is perfect for you.
+Binsux is a super fast and clean blogging theme for Jekyll. One of the main features of this theme is video post support. You can easily add your favorite video from services like Youtube or Vimeo. This theme is fully compatible with Github Pages and has a light and dark mode for easy reading. If you want to start a creative personal blog and you create video content this theme is perfect for you.
 
 * * *
-
-### Demo
-
-Check the theme in action [Live Demo](https://menca.netlify.app/) |
-[Artem Sheludko](https://jekyllthemes.io/developers/artem-sheludko)
 
 * * *
 
 ### Theme features
 
-- Works with GitHub Pages (host it for free)
 - Dark and light mode user can select themself
 - No jQuery, only vanilla JS
 - 100% responsive Design
@@ -36,7 +30,6 @@ Check the theme in action [Live Demo](https://menca.netlify.app/) |
 - Supports Google Analytics
 - Ionicons icons
 - Free Google Fonts
-- Free Updates & Support
 
 * * *
 
@@ -55,13 +48,3 @@ To run the theme locally, navigate to the theme directory and run `bundle instal
 I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
 
 * * *
-
-### Documentation
-
-Before using the Menca theme, please read the attached documentation.
-
-* * *
-
-### Support
-
-<p>If you have any questions, please feel free to contact me by mail <a href="mailto:hi.artemsheludko@gmail.com">Contact</a><p>
